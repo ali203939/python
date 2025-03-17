@@ -8,4 +8,4 @@ PontoPlanoDoisY = int(input("Y do segundo ponto: "))
 
 distanciaPontos = math.sqrt(((PontoPlanoDoisX - pontoPlanoUmX) ** 2) + ((PontoPlanoDoisY - pontoPlanoUmY) ** 2))
 
-print("Valor da dist‚ncia entre os pontos: ", distanciaPontos)
+print("Valor da dist√¢ncia entre os pontos: ", distanciaPontos)
